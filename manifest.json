@@ -1,0 +1,16 @@
+{
+  "name": "Michi",
+  "short_name": "Michi",
+  "description": "本人専用のスマホロックと、習慣をつなぎ替えるための育成RPG",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#07142a",
+  "theme_color": "#0a1830",
+  "lang": "ja",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
